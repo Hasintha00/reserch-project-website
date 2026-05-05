@@ -41,11 +41,16 @@ export default function Footer() {
           <div>
             <h4 className="text-white text-xs font-bold tracking-widest uppercase mb-6">CONTACT US</h4>
             <ul className="space-y-4">
-              <li className="text-white/50 text-sm">📧 group25-26J@my.sliit.lk</li>
-              <li className="text-white/50 text-sm">📞 +94 11 241 3900</li>
+              <li className="text-white/50 text-sm hover:text-white transition-colors">
+                <a href="mailto:mlhinduwara22@gmail.com">📧mlhinduwara22@gmail.com</a>
+              </li>
+              <li className="text-white/50 text-sm">📞 +94 769006279</li>
               <li className="text-white/50 text-sm">📍 SLIIT, New Kandy Road, Malabe</li>
               <li className="text-white/50 text-sm hover:text-white transition-colors">
-                <a href="https://github.com/fitforgeai" target="_blank" rel="noreferrer">💻 GitHub Repository</a>
+                <a href="https://github.com/Hasintha00/reserch-project-website" target="_blank" rel="noreferrer">💻 GitHub Repository</a>
+              </li>
+              <li className="text-white/50 text-sm hover:text-white transition-colors">
+                <a href="/pdfs/IEEE_Conference_Template.pdf" download>📄 Research Paper</a>
               </li>
             </ul>
           </div>

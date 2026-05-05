@@ -31,11 +31,11 @@ export default function Membership() {
               </svg>
               TAF DOCUMENT
             </a>
-            <a href="#" className="inline-flex bg-white text-black font-black text-sm tracking-widest uppercase px-6 py-4 rounded-sm hover:bg-accent hover:text-white transition-colors items-center gap-3 w-full justify-center">
+            <a href="/pdfs/IEEE_Conference_Template.pdf" download target="_blank" className="inline-flex bg-white text-black font-black text-sm tracking-widest uppercase px-6 py-4 rounded-sm hover:bg-accent hover:text-white transition-colors items-center gap-3 w-full justify-center">
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
-              RESEARCH PAPERS
+              RESEARCH PAPER
             </a>
             <button disabled className="inline-flex bg-white/50 text-black/50 font-black text-sm tracking-widest uppercase px-6 py-4 rounded-sm cursor-not-allowed items-center gap-3 w-full justify-center">
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
